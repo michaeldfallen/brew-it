@@ -27,16 +27,18 @@
 
 # node
 install node
-unlink  node
+#unlink  node
 
-install homebrew/versions/node08
-unlink  node08
+#install homebrew/versions/node08
+#unlink  node08
 
 # ocaml
 #install ocaml
 
 # python
 install python
+
+install python3
 
 # ruby
 install chruby
@@ -47,4 +49,9 @@ install ruby-install
 #install rust
 
 # scala
-#install scala
+install scala
+
+install sbt
+
+# android
+#install android-sdk

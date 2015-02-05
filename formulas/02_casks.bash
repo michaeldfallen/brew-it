@@ -18,13 +18,13 @@ cask install asepsis
 cask install dropbox
 
 #https://agilebits.com/onepassword
-cask install onepassword
+#cask install onepassword
 
 #https://www.google.com/intl/en/chrome/browser/
 cask install google-chrome
 
 #https://lastpass.com/
-#cask install lastpass
+cask install lastpass
 
 #http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html
 cask install superduper
@@ -62,10 +62,10 @@ cask install imageoptim
 #cask install ksdiff
 
 #http://livereload.com/
-cask install livereload
+#cask install livereload
 
 #http://www.vim.org/
-#cask install macvim
+cask install macvim
 
 #http://www.mysql.com/products/workbench/
 #cask install mysqlworkbench
@@ -74,10 +74,10 @@ cask install livereload
 #cask install node-webkit
 
 #http://www.pgadmin.org/
-#cask install pgadmin3
+cask install pgadmin3
 
 #http://postgresapp.com/
-#cask install postgres
+cask install postgres
 
 #http://robomongo.org/
 #cask install robomongo
@@ -106,10 +106,10 @@ cask install vagrant
 #
 
 #http://www.macbartender.com/
-cask install bartender
+#cask install bartender
 
 #http://macpaw.com/cleanmymac
-cask install cleanmymac
+#cask install cleanmymac
 
 #https://cloudup.com/
 #cask install cloudup
@@ -121,16 +121,16 @@ cask install coconutbattery
 cask install colors
 
 #http://www.daisydiskapp.com/
-cask install daisydisk
+#cask install daisydisk
 
 #http://mizage.com/divvy/
 #cask install divvy
 
 #http://liondiskmaker.com/
-cask install diskmaker-x
+#cask install diskmaker-x
 
 #http://justgetflux.com/
-cask install flux
+#cask install flux
 
 #http://gfx.io/
 cask install gfxcardstatus
@@ -139,7 +139,7 @@ cask install gfxcardstatus
 #cask install growlnotify
 
 #http://www.knocktounlock.com/
-cask install knock
+#cask install knock
 
 #http://marked2app.com/
 #cask install marked
@@ -148,7 +148,7 @@ cask install knock
 cask install quickcast
 
 #http://screenhero.com/
-cask install screenhero
+#cask install screenhero
 
 #http://www.irradiatedsoftware.com/sizeup/
 #cask install sizeup
@@ -166,10 +166,10 @@ cask install spectacle
 cask install totalterminal
 
 #http://iconfactory.com/software/xscope
-cask install xscope
+#cask install xscope
 
 #http://www.trankynam.com/xtrafinder/
-cask install xtrafinder
+#cask install xtrafinder
 
 
 #
@@ -194,16 +194,16 @@ cask install opera
 #
 
 #https://adium.im/
-cask install adium
+#cask install adium
 
 #http://airmailapp.com/beta
-cask install airmail-beta
+#cask install airmail-beta
 
 #http://www.airserver.com/
-cask install airserver
+#cask install airserver
 
 #http://calibre-ebook.com/
-cask install calibre
+#cask install calibre
 
 #http://www.mediaatelier.com/CheatSheet/
 cask install cheatsheet
@@ -215,19 +215,19 @@ cask install dash
 #cask install limechat
 
 #http://evernote.com/
-#cask install evernote
+cask install evernote
 
 #https://tools.google.com/dlpage/drive
 #cask install google-drive
 
 #http://handbrake.fr/
-cask install handbrake
+#cask install handbrake
 
 #http://inkscape.org/
 #cask install inkscape
 
 #http://www.libreoffice.org/
-cask install libreoffice
+#cask install libreoffice
 
 #http://mailplaneapp.com/
 #cask install mailplane
@@ -236,10 +236,10 @@ cask install libreoffice
 cask install mou
 
 #http://www.rdio.com/
-cask install rdio
+#cask install rdio
 
 #http://www.bohemiancoding.com/sketch/
-cask install sketch
+#cask install sketch
 
 #http://www.skype.com/en/
 cask install skype
@@ -248,8 +248,8 @@ cask install skype
 #cask install sparrow
 
 #https://www.spotify.com/us/
-#cask install spotify
+cask install spotify
 
 #http://www.utorrent.com/
-cask install utorrent
+#cask install utorrent
 

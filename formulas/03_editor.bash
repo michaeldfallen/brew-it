@@ -4,3 +4,5 @@
 
 install vim
 #install vimpager
+
+install ack
